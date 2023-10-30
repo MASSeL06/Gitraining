@@ -1,2 +1,3 @@
-let nombre = 'massel06'
-console.log('bondia colega, soy ' + nombre);
+const name = 'massel06'
+console.log("Programa para imprimir tu nombre");
+let number = 5
